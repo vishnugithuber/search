@@ -1,0 +1,30 @@
+1) create a database Shopping
+2) Create tables for the following
+a) create table customer having custid,custname,city,state
+b) create table products having prodid,prodname,unitprice,UnitOfMeasurement,QtyinStock
+c) Create a table sales_header
+invno,invdate,invamt,disPercent
+d) create a table sales_detail
+invno,custid,prodid,qtysold
+3) alter the sales_detail to apply a foreign key to custid and prodid.
+4) Drop a column qtySold.
+5) Add a column Qty.
+6) rename qty to Quantity(InNos)
+from sahidalikhan to All Participants:
+how to upload it on github?
+from Sulakshana Deore to All Participants:
+1) create a database Shopping
+2) Create tables for the following
+a) create table customer having custid,custname,city,state
+b) create table products having prodid,prodname,unitprice,UnitOfMeasurement,QtyinStock
+c) Create a table sales_header
+invno,invdate,invamt,disPercent
+d) create a table sales_detail
+invno,custid,prodid,qtysold
+d) create primary key for custid,prodid,invno in the sales_header table.
+e) Create foreign key of invno in the sales_detail table.
+3) alter the sales_detail to apply a foreign key to custid and prodid.
+4) Drop a column qtySold.
+5) Add a column Qty.
+6) rename qty to Quantity(InNos)
+d

@@ -1,0 +1,8 @@
+E:\NET\SearchAndSort\SearchAndSort\bin\Debug\SearchAndSort.exe.config
+E:\NET\SearchAndSort\SearchAndSort\bin\Debug\SearchAndSort.exe
+E:\NET\SearchAndSort\SearchAndSort\bin\Debug\SearchAndSort.pdb
+E:\NET\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.csproj.AssemblyReference.cache
+E:\NET\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.csproj.SuggestedBindingRedirects.cache
+E:\NET\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.csproj.CoreCompileInputs.cache
+E:\NET\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.exe
+E:\NET\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.pdb
